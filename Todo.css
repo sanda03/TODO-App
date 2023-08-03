@@ -1,0 +1,56 @@
+
+
+
+div{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    margin-top: 10vw;
+    background-color: rgb(255, 212, 212);
+}
+h1{
+    text-align: center;
+}
+
+.add{
+    padding: 15px;
+    height: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 20px;
+     margin-right: 30px;
+}
+.delete{
+    padding: 15px;
+    height: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    background-color: red;
+    color: white;
+}
+.update{
+    padding: 15px;
+    height: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    background-color: green;
+    color: white;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+form{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
